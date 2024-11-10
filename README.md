@@ -15,16 +15,16 @@ Before running the app, make sure you have the following installed on your machi
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone repository-url
+   git clone https://github.com/baher-abdo/elevate-task.git
 
 2. Navigate to the project directory<br>
 cd project-folder
 
-3. Install the project dependencies
+3. Install the project dependencies<br>
  . Using npm
  npm install
 
- . Or using yarn
+ . Or using yarn<br>
   yarn install
 After the dependencies are installed, you can run the application locally
 
