@@ -21,15 +21,15 @@ Before running the app, make sure you have the following installed on your machi
 cd project-folder
 
 3. Install the project dependencies<br>
- . Using npm
+   Using npm
  npm install
 
- . Or using yarn<br>
+   Or using yarn<br>
   yarn install
 After the dependencies are installed, you can run the application locally
 
- . Using npm<br>
+   Using npm<br>
  npm start
 
- . Or using yarn<br>
+   Or using yarn<br>
   yarn start
