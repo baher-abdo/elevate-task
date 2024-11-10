@@ -28,8 +28,8 @@ cd project-folder
   yarn install
 After the dependencies are installed, you can run the application locally
 
- . Using npm
+ . Using npm<br>
  npm start
 
- . Or using yarn
+ . Or using yarn<br>
   yarn start
