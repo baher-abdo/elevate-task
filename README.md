@@ -17,7 +17,7 @@ Before running the app, make sure you have the following installed on your machi
    ```bash
    git clone repository-url
 
-2. Navigate to the project directory
+2. Navigate to the project directory<br>
 cd project-folder
 
 3. Install the project dependencies
